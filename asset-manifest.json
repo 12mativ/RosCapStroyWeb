@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/RosCapStroyWeb/static/css/main.7e937531.css",
-    "main.js": "/RosCapStroyWeb/static/js/main.61236d95.js",
+    "main.css": "/RosCapStroyWeb/static/css/main.a226f762.css",
+    "main.js": "/RosCapStroyWeb/static/js/main.0f56afc5.js",
     "static/js/787.c1112931.chunk.js": "/RosCapStroyWeb/static/js/787.c1112931.chunk.js",
+    "static/media/01.jpg": "/RosCapStroyWeb/static/media/01.95ff7e90287d6898f03c.jpg",
     "index.html": "/RosCapStroyWeb/index.html",
-    "main.7e937531.css.map": "/RosCapStroyWeb/static/css/main.7e937531.css.map",
-    "main.61236d95.js.map": "/RosCapStroyWeb/static/js/main.61236d95.js.map",
+    "main.a226f762.css.map": "/RosCapStroyWeb/static/css/main.a226f762.css.map",
+    "main.0f56afc5.js.map": "/RosCapStroyWeb/static/js/main.0f56afc5.js.map",
     "787.c1112931.chunk.js.map": "/RosCapStroyWeb/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e937531.css",
-    "static/js/main.61236d95.js"
+    "static/css/main.a226f762.css",
+    "static/js/main.0f56afc5.js"
   ]
 }
